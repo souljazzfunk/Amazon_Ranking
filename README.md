@@ -14,7 +14,6 @@ This project is a Python script that scrapes Amazon product ranking data. It is 
 - Selenium
 - Requests
 - BeautifulSoup
-- ChromeDriver
 - PIL (Pillow)
 - WebDriver Manager
 
@@ -27,10 +26,6 @@ This project is a Python script that scrapes Amazon product ranking data. It is 
 2. Navigate to the project directory:
     ```bash
     cd Amazon_Ranking
-    ```
-3. Install required packages:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## Usage
