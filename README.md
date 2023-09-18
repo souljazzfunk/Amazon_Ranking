@@ -1,10 +1,10 @@
 # Amazon Product Ranking Scraper
 
-This project is a Python script that scrapes Amazon product ranking data. It is capable of retrieving ranking data for specific categories and taking screenshots for those products that fall under the top 15 ranks.
+This project is a Python script that scrapes Amazon product ranking data. It is capable of retrieving ranking data for specific categories and taking screenshots.
 
 ## Features
 
-- Fetch Amazon product ranking data and stores them in a CSV file.
+- Fetches Amazon product ranking data and stores them in a CSV file.
 - Takes screenshots for products that are in the top 10 ranks (or within the range you like) in their categories.
 - Resilient to network failures with retry mechanisms.
 
